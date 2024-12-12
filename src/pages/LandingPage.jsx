@@ -17,7 +17,6 @@ import {
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import SignUp from '../components/auth/Authentication';
-import AdminPanel from './Adminpanel';
 import Login from '@/components/auth/Login';
 import { useAuth } from '@/context/Context';
 import { useNavigate } from 'react-router-dom';
